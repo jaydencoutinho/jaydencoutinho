@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Various AI Prjoects And APIs
 - 📫 How to reach me Email- Jaydencoutinho8@gmail.com
-- ⚡ Fun fact: I honestly did not like coding in college but grew fond of python after stufying it.
+- ⚡ Fun fact: I honestly did not like coding in college but grew fond of python after studying it.
 
 <!---
 jaydencoutinho/jaydencoutinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
